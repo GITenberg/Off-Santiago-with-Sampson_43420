@@ -1,0 +1,38 @@
+_repo: Off-Santiago-with-Sampson_43420
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43420-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: ''
+gutenberg_issued: '2013-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fathers and sons -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'War stories'
+- !lcsh 'War -- Juvenile fiction'
+- !lcsh 'Spanish-American War, 1898 -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcsh 'Stowaways -- Juvenile fiction'
+- !lcsh 'Cuba -- History -- Revolution, 1895-1898 -- Juvenile fiction'
+- !lcsh 'Naval battles -- Juvenile fiction'
+title: Off Santiago with Sampson
+url: http://www.gutenberg.org/ebooks/43420
